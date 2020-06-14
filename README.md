@@ -8,10 +8,8 @@ A Tensorflow 2.0 implementation of Squeeze-and-Excitation Networks (SENet ResNet
 ![](https://github.com/TanyaChutani/Squeeze-and-Excitation-Networks-ResNet50-Tf2.0/blob/master/images/model.png?raw=true)
 
 ## Results
+![](https://github.com/TanyaChutani/Squeeze-and-Excitation-Networks-ResNet50-Tf2.0/blob/master/images/SE-ResNet.png?raw=true)
 
-
-
-If you use Squeeze-and-Excitation Networks in your research, please cite the paper:
     
     @inproceedings{hu2018senet,
       title={Squeeze-and-Excitation Networks},
